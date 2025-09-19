@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 406.49 416.05"><defs><style>.cls-1 {
+        fill: #B0CAE3;
+    }
+
+    .cls-2,
+    .cls-3 {
+        fill: #FFFFFF;
+        stroke: #000000;
+        stroke-width: .875rem;
+    }
+
+    .cls-2 {
+        stroke-linejoin: round;
+    }
+
+    .cls-3 {
+        stroke-miterlimit: 10;
+    }
+</style></defs><title>Asset 21</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><circle class="cls-1" cx="203.25" cy="212.81" r="203.25"/><polygon class="cls-2" points="312.83 354.24 257.17 339.81 222 385.31 148.87 171.47 239.7 140.4 312.83 354.24"/><polygon class="cls-2" points="180.77 384.32 143.5 340.52 88.58 357.55 151.59 140.51 243.78 167.28 180.77 384.32"/><circle class="cls-3" cx="204.52" cy="120.4" r="113.4"/><circle class="cls-3" cx="204.52" cy="120.4" r="87.32"/><polygon class="cls-2" points="204.43 58.97 220.32 98.55 263.79 99.39 231.71 128.35 243.82 171.62 204.62 146.17 165.54 171.79 177.46 128.47 145.25 99.65 188.71 98.62 204.43 58.97"/></g></g></svg>
